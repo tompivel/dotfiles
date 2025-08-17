@@ -1,0 +1,12 @@
+[submodule "wofi"]
+	path = wofi
+	url = ./wofi
+[submodule "hypr"]
+	path = hypr
+	url = ./hypr
+[submodule "nvim"]
+	path = nvim
+	url = ./nvim
+[submodule "wallpapers"]
+	path = wallpapers
+	url = ./wallpapers
