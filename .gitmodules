@@ -1,12 +1,12 @@
 [submodule "wofi"]
 	path = wofi
-	url = ./wofi
+	url = git@github.com:tompivel/wofi-config.git
 [submodule "hypr"]
 	path = hypr
-	url = ./hypr
+	url = git@github.com:tompivel/hyprland-config.git
 [submodule "nvim"]
 	path = nvim
-	url = ./nvim
+	url = git@github.com:tompivel/kickstart.nvim.git
 [submodule "wallpapers"]
 	path = wallpapers
-	url = ./wallpapers
+	url = git@github.com:tompivel/wallpapers.git
